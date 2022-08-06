@@ -6,7 +6,7 @@ This is the output file from Altium Designer from ESE516 class
 ## What it does
 We decided to make a smart irrigation system which could measure the moisture level of soil and irrigate it when it is too dry.
 
-![setup](image/setup.jpg)
+[![setup](https://www.youtube.com/watch?v=NsQ1t5cRwfQ/default.jpg)](https://www.youtube.com/watch?v=NsQ1t5cRwfQ)
 
 ## Inspiration
 This device is designed for people who love gardening but travel a lot. Once the device is installed, while the user is away from home, it could alert the user when the soil moisture level drops below a certain threshold, and the user could remotely control the device to water the plants, or to let the device decide when to irrigate the plants.
