@@ -9,6 +9,8 @@ This device is designed for people who love gardening but travel a lot. Once the
 ## How we built it
 In this project, we followed the top-down design scheme. So, in the first place, we designed the overall functionalities of the system as shown in the system block diagram. The system is based on the SAMW25 MCU, and it communicate with the soil moisture sensor and the ambient light sensor via I2C and drive the pump and LED array with GPIO. Also, the MCU has the WINC1500 WIFI module so we used this feature to build an IoT product.
 
+![design](image/design.png)
+
 Then we captured the schematics, and started PCBA layout in Altium Designer. The schematic and PCB layout are on the image files above. In the schematics, we used the hierarchical subsheet structure to simplify the main schematic and make it easy to read.
 
 Then we selected proper components and layout them onto the PCBA file. We implemented our design in a 4 layers PCB. It’s quite an interesting experience of designing the PCB, and after that we send this PCB design to PCBWAY, a manufacture in Shenzhen China, to print it out.
