@@ -15,7 +15,15 @@ Then we captured the schematics, and started PCBA layout in Altium Designer. The
 
 Then we selected proper components and layout them onto the PCBA file. We implemented our design in a 4 layers PCB. It’s quite an interesting experience of designing the PCB, and after that we send this PCB design to PCBWAY, a manufacture in Shenzhen China, to print it out.
 
+![schematic](image/schematic.png)
+
+![3d](image/3d.png)
+
 After the hardware design, we started on the software side, which we implemented a bootloader, and utilized the FreeRTOS system on our project. Also, our board has command line interface, which we can type some instructions to the terminal and readout the sensor values (soil moisture sensor, IMU, ultrasonic sensor, etc.). Since it’s an IoT project, we implemented web interface (via NodeRed and IBM cloud) as well. The upstream data are being transmitted to the MQTT broker server first and then to the NodeRed interface, which is powered by IBM cloud. We can read sensor value and history in the web interface, as shown in picture above.
+
+![output](image/output.png)
+
+![layout](image/layout.png)
 
 ## Challenges we ran into
 The first challenge we met is the shortage of the parts we need. When it comes to select our parts, we have to update our BOM frequently, because some parts may be out of stock after a day. The second challenge we encountered is the design of our PCB board. Since it’s our first time to design the PCB board, it’s really hard for us to make the components clear and neat at the beginning. Fortunately, we finally improve the layout of our board to be clear and neat with the professor’s advice.
