@@ -1,0 +1,1678 @@
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 25 1.9912313 1.1834807 0 N U10 DMN63D8L-7 ;0=1,1=0.0000
+PRP Copyright 'Copyright (C) 2022 Ultra Librarian. All rights reserved.'
+PRP Digi-Key_Part_Number_1 'DMN63D8L-7DITR-ND'
+PRP Digi-Key_Part_Number_2 'DMN63D8L-7DICT-ND'
+PRP Digi-Key_Part_Number_3 'DMN63D8L-7DIDKR-ND'
+PRP Manufacturer_Part_Number 'DMN63D8L-7'
+PRP Mfr_Name 'Diodes Inc'
+PRP RefDes 'RefDes'
+PRP Type 'DEV'
+TOP 0 1.9552077 1.1454807 0 N 1 1 1
+TOP 1 2.0272549 1.1454807 0 N 9 1 2
+TOP 2 1.9912313 1.2214807 0 N 56 99 3
+#
+# CMP 1
+CMP 22 1.2866685 0.511811 270 N R30 Jumper ;0=1,1=0.0276
+PRP Case-EIA '0805'
+PRP Case-Metric '2012'
+PRP Power 'None'
+PRP Technology 'SMT'
+PRP Tolerance 'None'
+PRP Value '0.00 Ohm'
+TOP 0 1.2866684 0.4744095 180 N 12 3 1
+TOP 1 1.2866684 0.5492126 180 N 3 1 2
+#
+# CMP 2
+CMP 22 1.3966685 0.511811 270 N R26 Jumper ;0=1,1=0.0276
+PRP Case-EIA '0805'
+PRP Case-Metric '2012'
+PRP Power 'None'
+PRP Technology 'SMT'
+PRP Tolerance 'None'
+PRP Value '0.00 Ohm'
+TOP 0 1.3966684 0.4744095 180 N 11 3 1
+TOP 1 1.3966684 0.5492126 180 N 2 1 2
+#
+# CMP 3
+CMP 0 2.184252 0.9062992 270 N U9 empty_part_name ;0=2,1=0.0000
+PRP Brand 'FCI'
+PRP ComponentLink1Description 'https://datasheet.ciiva.com/1433/1079612-1433267.pdf'
+PRP ComponentLink1URL 'https://datasheet.ciiva.com/1433/1079612-1433267.pdf'
+PRP ComponentLink2Description 'https://datasheet.ciiva.com/409/20021111-409158.pdf'
+PRP ComponentLink2URL 'https://datasheet.ciiva.com/409/20021111-409158.pdf'
+PRP ComponentLink3Description 'https://datasheet.ciiva.com/5131/20021111-5131386.pdf'
+PRP ComponentLink3URL 'https://datasheet.ciiva.com/5131/20021111-5131386.pdf'
+PRP ComponentLink4Description 'https://datasheet.ciiva.com/9465/20021111-9465402.pdf'
+PRP ComponentLink4URL 'https://datasheet.ciiva.com/9465/20021111-9465402.pdf'
+PRP Contact_Material 'Nickel'
+PRP Contact_Plating 'Gold'
+PRP Current_Rating '10 A'
+PRP Factory_Pack_Quantity '93'
+PRP Housing_Material 'Plastic'
+PRP Manufacturer 'Amphenol / FCI'
+PRP Manufacturer_Part_Number '20021111-00010T4LF'
+PRP Mating_Post_Length '3.05 mm'
+PRP Mounting_Angle 'Vertical'
+PRP Mounting_Style 'Through Hole'
+PRP Number_of_Positions '10'
+PRP Number_of_Positions_/_Contacts '10'
+PRP Number_of_Rows '2'
+PRP Packaging 'Tube'
+PRP Pitch '1.27 mm'
+PRP Product_Category 'Headers & Wire Housings'
+PRP Product_Type 'Headers'
+PRP RoHS 'Details'
+PRP Series 'Minitek'
+PRP Stack_Height '2.5 mm'
+PRP Supplier_1 'Digi-Key'
+PRP Termination_Post_Length '2.3 mm'
+PRP Termination_Style 'Through Hole'
+PRP Type 'Unshrouded'
+PRP Voltage_Rating '125 V'
+TOP 0 2.234252 0.8062992 270 N 16 1 1
+TOP 1 2.184252 0.8062992 270 N 6 0 2
+TOP 2 2.234252 0.8562992 270 N 14 1 3
+TOP 3 2.184252 0.8562992 270 N 5 0 4
+TOP 4 2.234252 0.9062992 270 N 56 15 5
+TOP 5 2.184252 0.9062992 270 N 4 0 6
+TOP 6 2.234252 0.9562992 270 N 56 16 7
+TOP 7 2.184252 0.9562992 270 N 8 0 8
+TOP 8 2.234252 1.0062992 270 N 56 14 9
+TOP 9 2.184252 1.0062992 270 N 7 0 10
+#
+# CMP 4
+CMP 26 0.743681 1.4488189 0 N U8 LP5907MFX-3.2/NOPB ;0=1,1=0.0000
+PRP Arrow_Asia-Purchase-URL 'https://snapeda.com/shop?store=Arrow+Asia&id=559784'
+PRP Availability 'Good'
+PRP DigiKey-Purchase-URL 'https://snapeda.com/shop?store=DigiKey&id=559784'
+PRP MF 'Texas Instruments'
+PRP Mouser-Purchase-URL 'https://snapeda.com/shop?store=Mouser&id=559784'
+PRP MP 'LP5907MFX-3.2/NOPB'
+PRP Package 'SOT-23-5 Texas Instruments'
+PRP Price 'None'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/LP5907MFX-3.2/NOPB/Texas%20Instruments/view-part/559784/?ref=snap'
+PRP Texas_Instruments-Purchase-URL 'https://snapeda.com/shop?store=Texas+Instruments&id=559784'
+PRP Value ''
+TOP 0 0.6942716 1.4862205 0 N 31 15 1
+TOP 1 0.6942716 1.4488189 0 N 56 93 2
+TOP 2 0.6942716 1.4114173 0 N 31 16 3
+TOP 3 0.7930904 1.4114173 0 N 0 37 4
+TOP 4 0.7930904 1.4862205 0 N 10 2 5
+#
+# CMP 5
+CMP 3 0.9820668 0.26 180 N U7 TSL25911FN ;0=1,1=0.0276
+PRP ComponentLink1Description 'Manufacturer URL'
+PRP ComponentLink1URL 'www.ams.com'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'http://www.ams.com/eng/content/download/389383/1251117/221235'
+PRP Interface 'I2C - Vdd'
+PRP Manufacturer 'AMS'
+PRP Maximum_Lux '88K'
+PRP Mounting_Technology 'Surface Mount'
+PRP PackageDescription '6-Pin Dual Flat No-Lead, 2.4 x 2 mm Body, 0.65 mm Pitch'
+PRP PackageReference 'FN-6'
+PRP PackageVersion 'TAOS059Q, 11/2009'
+PRP PartNumber 'TSL25911FN'
+PRP Programmable 'Gain, Integration Time, Interrupt'
+PRP Supply_Voltage_(V) '2.7 - 3.6'
+TOP 0 1.0115944 0.2344094 90 N 12 4 1
+TOP 1 1.0115944 0.26 90 N 0 38 2
+TOP 2 1.0115944 0.2855905 90 N 56 96 3
+TOP 3 0.9525393 0.2855905 90 N 0 39 4
+TOP 4 0.9525393 0.26 90 N 62 19 5
+TOP 5 0.9525393 0.2344094 90 N 11 4 6
+#
+# CMP 6
+CMP 18 1.3035235 0.38 90 N TP21 0.1"_Pad ;0=1,1=0.0000
+TOP 0 1.3035235 0.38 0 N 12 2 1
+#
+# CMP 7
+CMP 18 1.384567 0.38 0 N TP20 0.1"_Pad ;0=1,1=0.0000
+TOP 0 1.384567 0.38 270 N 11 2 1
+#
+# CMP 8
+CMP 18 0.1673228 0.1968504 270 N TP19 0.1"_Pad ;0=1,1=0.0000
+TOP 0 0.1673228 0.1968504 180 N 62 8 1
+#
+# CMP 9
+CMP 18 2.0699999 1.7267166 0 N TP18 0.1"_Pad ;0=1,1=0.0000
+TOP 0 2.0699999 1.7267166 270 N 13 1 1
+#
+# CMP 10
+CMP 20 1.26 0.31 180 N R29 4R7_1% ;0=1,1=0.0236
+PRP Case-EIA '0603'
+PRP Case-Metric '1608'
+PRP Power '0.1 W'
+PRP Technology 'SMT'
+PRP Tolerance '1 %'
+PRP Value '4.70 Ohm'
+TOP 0 1.295433 0.3099999 90 N 12 1 1
+TOP 1 1.2245669 0.3099999 90 N 62 7 2
+#
+# CMP 11
+CMP 20 1.42 0.31 0 N R28 4R7_1% ;0=1,1=0.0236
+PRP Case-EIA '0603'
+PRP Case-Metric '1608'
+PRP Power '0.1 W'
+PRP Technology 'SMT'
+PRP Tolerance '1 %'
+PRP Value '4.70 Ohm'
+TOP 0 1.384567 0.3100001 270 N 11 1 1
+TOP 1 1.4554331 0.3100001 270 N 62 6 2
+#
+# CMP 12
+CMP 21 1.8566603 1.1834807 270 N R27 10K_5% ;0=1,1=0.0236
+PRP Case-EIA '0603'
+PRP Case-Metric '1608'
+PRP Power '0.1 W'
+PRP Technology 'SMT'
+PRP Tolerance '5 %'
+PRP Value '10000.00 Ohm'
+TOP 0 1.8566603 1.1519847 180 N 1 2 1
+TOP 1 1.8566603 1.2149768 180 N 56 100 2
+#
+# CMP 13
+CMP 22 0.9775 1.4078586 90 N R25 Jumper ;0=1,1=0.0276
+PRP Case-EIA '0805'
+PRP Case-Metric '2012'
+PRP Power 'None'
+PRP Technology 'SMT'
+PRP Tolerance 'None'
+PRP Value '0.00 Ohm'
+TOP 0 0.9775001 1.4452601 0 N 10 1 1
+TOP 1 0.9775001 1.370457 0 N 14 2 2
+#
+# CMP 14
+CMP 28 2.24 1.7317196 270 N P8 5050_LED_HEADER ;0=2,1=0.3949
+PRP Agency_Approvals 'CSA,UL'
+PRP Angle 'Straight'
+PRP Brand/Series 'MTA-100Series'
+PRP Color 'White'
+PRP Color__Housing 'White'
+PRP Connector_Type 'MTA-100'
+PRP Contact_Centerline_Spacing '0.100in.'
+PRP Contact_Mating_Area_Plating 'Tin'
+PRP Contact_Plating 'Tin'
+PRP Contact_Shape 'Square'
+PRP Contact_Termination_Area_Plating 'Tin'
+PRP Current__Rating '5A'
+PRP Datasheet_URL 'https://datasheet.ciiva.com/16286/eng-ds-82056-mta-0608-16286228.pdf'
+PRP Datasheet_Version 'Dec-14'
+PRP Flammability_Rating 'UL94V-0'
+PRP Length__Overall '0.4_'
+PRP Length__Pin '0.14_'
+PRP Length__Terminal_Post '0.14in.'
+PRP Manufacturer 'TE Connectivity'
+PRP Manufacturer_URL 'http://www.te.com/'
+PRP Material__Contact 'CopperAlloy'
+PRP Material__Housing 'Polyester'
+PRP Mount_Angle 'Vertical'
+PRP Mounting_Hole_Size '0.04_'
+PRP Mounting_Type 'PCMount'
+PRP Number_of_Contacts '4'
+PRP Number_of_Positions '4'
+PRP Number_of_Rows '1'
+PRP Pin_Spacing '0.1_'
+PRP Primary_Type 'InterconnectSystem'
+PRP Size__Post '0.025in.'
+PRP Special_Features 'Pinstrip'
+PRP Standards 'RoHSCompliant,ELVCompliant,UL94V-0'
+PRP Temperature__Operating '-55to+105degC'
+PRP Termination 'Solder'
+PRP Type 'PCBPlug'
+PRP Voltage__Rating '250V'
+TOP 0 2.24 1.8817196 90 N 56 21 1
+TOP 1 2.24 1.7817196 90 N 0 4 2
+TOP 2 2.24 1.6817196 90 N 13 0 3
+TOP 3 2.24 1.5817196 90 N 16 2 4
+#
+# CMP 15
+CMP 27 2.234252 1.2681102 270 N P7 WATER_PUMP_HEADER ;0=2,1=0.3949
+PRP Agency_Approvals 'CSA,UL'
+PRP Angle 'Straight'
+PRP Brand/Series 'MTA-100Series'
+PRP Color 'White'
+PRP Color__Housing 'White'
+PRP Connector_Type 'MTA-100'
+PRP Contact_Centerline_Spacing '0.100in.'
+PRP Contact_Mating_Area_Plating 'Tin'
+PRP Contact_Plating 'Tin'
+PRP Contact_Shape 'Square'
+PRP Contact_Termination_Area_Plating 'Tin'
+PRP Current__Rating '5A'
+PRP Datasheet_URL 'https://datasheet.ciiva.com/16456/eng-ds-82056-mta-0608-16456886.pdf'
+PRP Datasheet_Version 'Jun-08'
+PRP Flammability_Rating 'UL94V-0'
+PRP Length__Overall '0.3_'
+PRP Length__Pin '0.14_'
+PRP Length__Terminal_Post '0.14in.'
+PRP Manufacturer 'TE Connectivity'
+PRP Manufacturer_URL 'http://www.te.com/'
+PRP Material__Contact 'CopperAlloy'
+PRP Material__Housing 'Polyester'
+PRP Mount_Angle 'Vertical'
+PRP Mounting_Hole_Size '0.04_'
+PRP Mounting_Type 'PCMount'
+PRP Number_of_Contacts '3'
+PRP Number_of_Positions '3'
+PRP Number_of_Rows '1'
+PRP Pin_Spacing '0.1_'
+PRP Primary_Type 'InterconnectSystem'
+PRP Size__Post '0.025in.'
+PRP Special_Features 'Pinstrip'
+PRP Standards 'RoHSCompliant,ELVCompliant,UL94V-0'
+PRP Temperature__Operating '-55to+105degC'
+PRP Termination 'Solder'
+PRP Type 'PCBPlug'
+PRP Voltage__Rating '250V'
+TOP 0 2.234252 1.3681102 270 N 14 0 1
+TOP 1 2.234252 1.2681102 270 N 16 0 2
+TOP 2 2.234252 1.1681102 270 N 9 0 3
+#
+# CMP 16
+CMP 28 1.34 0.12 0 N P6 SOIL_MOISTURE_SENSOR_HEADER ;0=2,1=0.3949
+PRP Agency_Approvals 'CSA,UL'
+PRP Angle 'Straight'
+PRP Brand/Series 'MTA-100Series'
+PRP Color 'White'
+PRP Color__Housing 'White'
+PRP Connector_Type 'MTA-100'
+PRP Contact_Centerline_Spacing '0.100in.'
+PRP Contact_Mating_Area_Plating 'Tin'
+PRP Contact_Plating 'Tin'
+PRP Contact_Shape 'Square'
+PRP Contact_Termination_Area_Plating 'Tin'
+PRP Current__Rating '5A'
+PRP Datasheet_URL 'https://datasheet.ciiva.com/16286/eng-ds-82056-mta-0608-16286228.pdf'
+PRP Datasheet_Version 'Dec-14'
+PRP Flammability_Rating 'UL94V-0'
+PRP Length__Overall '0.4_'
+PRP Length__Pin '0.14_'
+PRP Length__Terminal_Post '0.14in.'
+PRP Manufacturer 'TE Connectivity'
+PRP Manufacturer_URL 'http://www.te.com/'
+PRP Material__Contact 'CopperAlloy'
+PRP Material__Housing 'Polyester'
+PRP Mount_Angle 'Vertical'
+PRP Mounting_Hole_Size '0.04_'
+PRP Mounting_Type 'PCMount'
+PRP Number_of_Contacts '4'
+PRP Number_of_Positions '4'
+PRP Number_of_Rows '1'
+PRP Pin_Spacing '0.1_'
+PRP Primary_Type 'InterconnectSystem'
+PRP Size__Post '0.025in.'
+PRP Special_Features 'Pinstrip'
+PRP Standards 'RoHSCompliant,ELVCompliant,UL94V-0'
+PRP Temperature__Operating '-55to+105degC'
+PRP Termination 'Solder'
+PRP Type 'PCBPlug'
+PRP Voltage__Rating '250V'
+TOP 0 1.49 0.12 180 N 56 13 1
+TOP 1 1.39 0.12 180 N 11 0 2
+TOP 2 1.29 0.12 180 N 12 0 3
+TOP 3 1.19 0.12 180 N 62 1 4
+#
+# CMP 17
+CMP 4 0.8702438 1.4078586 270 N C29 1uF_16V ;0=1,1=0.0394
+PRP Case-EIA '0603'
+PRP Case-Metric '1608'
+PRP Max_Thickness '1 mm'
+PRP Rated_Voltage '16 V'
+PRP Technology 'SMT'
+PRP Tolerance '?°¿5%'
+PRP Value '1uF'
+TOP 0 0.8702438 1.3763626 180 N 56 35 1
+TOP 1 0.8702438 1.4393547 180 N 10 0 2
+#
+# CMP 18
+CMP 4 0.5708661 1.476378 270 N C28 1uF_16V ;0=1,1=0.0394
+PRP Case-EIA '0603'
+PRP Case-Metric '1608'
+PRP Max_Thickness '1 mm'
+PRP Rated_Voltage '16 V'
+PRP Technology 'SMT'
+PRP Tolerance '?°¿5%'
+PRP Value '1uF'
+TOP 0 0.5708661 1.444882 180 N 56 34 1
+TOP 1 0.5708661 1.5078741 180 N 31 7 2
+#
+# CMP 19
+CMP 4 0.983051 0.35 180 N C27 1uF_16V ;0=1,1=0.0394
+PRP Case-EIA '0603'
+PRP Case-Metric '1608'
+PRP Max_Thickness '1 mm'
+PRP Rated_Voltage '16 V'
+PRP Technology 'SMT'
+PRP Tolerance '?°¿5%'
+PRP Value '1uF'
+TOP 0 1.014547 0.35 90 N 56 33 1
+TOP 1 0.9515549 0.35 90 N 62 5 2
+#
+# CMP 20
+CMP 10 2.269685 2.13 0 N FD3 40x100mm ;0=1,1=0.0000
+TOP 0 2.269685 2.13 0 N 0 8 empty-1
+#
+# CMP 21
+CMP 10 0.2405905 0.0925196 0 N FD2 40x100mm ;0=1,1=0.0000
+TOP 0 0.2405905 0.0925196 0 N 0 7 empty-1
+#
+# CMP 22
+CMP 10 2.12 0.0925196 0 N FD1 40x100mm ;0=1,1=0.0000
+TOP 0 2.12 0.0925196 0 N 0 6 empty-1
+#
+# CMP 23
+CMP 2 1.3779528 1.1988189 270 N X1 ABS07-32.768KHz-T ;0=1,1=0.0354
+PRP ComponentLink1Description 'Manufacturer URL'
+PRP ComponentLink1URL 'http://www.abracon.com/'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'http://www.abracon.com/Resonators/ABS07.pdf'
+PRP ComponentLink3Description 'Package Specification'
+PRP ComponentLink3URL 'http://www.abracon.com/Resonators/ABS07.pdf'
+PRP DatasheetVersion '04.03.13'
+PRP Drive_Level_(Type) '0.1 uW'
+PRP Equivalent_Series_Resistance_(R1) '70 Kohm'
+PRP Frequency '32.768 kHz'
+PRP Frequency_Tolerance_@+25degC '+/- 20 ppm'
+PRP Insulation_Resistance_(Min) '500 Mohm'
+PRP Load_Capacitance_(CL) '12.5 pF'
+PRP Manufacturer 'Abracon'
+PRP Mounting_Technology 'Surface Mount'
+PRP Operating_Temperature '-40 to 85 degC'
+PRP Operation_Mode 'Flexural Mode (Tuning Fork)'
+PRP PackageDescription '2-Pin Hand Drawn, Body 3.2x1.5mm, Pitch 2.5mm'
+PRP PackageReference 'ABS07-2'
+PRP Packing 'Tape and Reel'
+PRP PartNumber 'ABS07-32.768KHz-T'
+PRP Q_Value_(Type) '30000'
+PRP Shunt_Capacitance_(C0) '0.9 to 1.2 pF'
+TOP 0 1.3779528 1.1496063 90 N 29 1 1
+TOP 1 1.3779528 1.2480315 90 N 28 1 2
+#
+# CMP 24
+CMP 23 0.9249802 1.9446693 180 N U6 BQ24075RGTRG4 ;0=1,1=0.0394
+PRP Code_JEDEC 'MO-220'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=BQ24075&fileType=pdf'
+PRP DatasheetVersion 'SLUS810G'
+PRP Eco-Plan 'Green (RoHS & no Sb/Br)'
+PRP Lead_Acid 'N'
+PRP Li-Ion 'N'
+PRP Li-Polymer 'N'
+PRP Manufacturer 'Texas Instruments'
+PRP Mounting_Technology 'Surface Mount'
+PRP NiCd 'N'
+PRP NiMH 'N'
+PRP Over_Voltage_Protection 'N'
+PRP PackageDescription '16-Pin Plastic Quad Flat No-Lead, 3 x 3 mm Body, 0.5 mm Pitch, 1.7 x 1.7 mm Exposed Pad'
+PRP PackageReference 'RGT16-1700X1700TP'
+PRP PackageVersion 'revH, Oct-2011'
+PRP PartNumber 'BQ24075RGTRG4'
+PRP SubFamily 'Battery Charge Management'
+PRP Vin(Min)(V) '4.3'
+TOP 0 0.983051 1.9151417 90 N 60 0 1
+TOP 1 0.983051 1.9348267 90 N 34 2 2
+TOP 2 0.983051 1.9545118 90 N 34 3 3
+TOP 3 0.983051 1.9741968 90 N 56 27 4
+TOP 4 0.9545077 2.0027401 180 N 56 28 5
+TOP 5 0.9348227 2.0027401 180 N 15 1 6
+TOP 6 0.9151376 2.0027401 180 N 25 0 7
+TOP 7 0.8954526 2.0027401 180 N 56 29 8
+TOP 8 0.8669093 1.9741968 90 N 26 0 9
+TOP 9 0.8669093 1.9545118 90 N 15 2 10
+TOP 10 0.8669093 1.9348267 90 N 15 3 11
+TOP 11 0.8669093 1.9151417 90 N 59 0 12
+TOP 12 0.8954526 1.8865984 180 N 30 1 13
+TOP 13 0.9151376 1.8865984 180 N 56 30 14
+TOP 14 0.9348227 1.8865984 180 N 56 31 15
+TOP 15 0.9545077 1.8865984 180 N 58 0 16
+TOP 16 0.9249801 1.9446693 180 N 56 32 17
+#
+# CMP 25
+CMP 9 1.4074803 1.6732283 0 N U5 TPS61087DRCR ;0=1,1=0.0394
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=TPS61087&fileType=pdf'
+PRP ComponentLink2Description 'Package Specification'
+PRP ComponentLink2URL 'http://www.ti.com/litv/pdf/mpds117k'
+PRP DatasheetVersion 'SLVS821B'
+PRP Eco-Plan 'Green (RoHS & no Sb/Br)'
+PRP Manufacturer 'Texas Instruments'
+PRP Mounting_Technology 'Surface Mount'
+PRP PackageDescription '10-Pin Plastic Small Outline No-Lead, 3 x 3 x 1 mm Body, 0.5 mm Pitch, Exposed Pad'
+PRP PackageReference 'DRC0010J'
+PRP PackageVersion 'revL, Sep-2011'
+PRP PartNumber 'TPS61087DRCR'
+PRP Regulated_Outputs(#) '1'
+PRP SubFamily 'Step-Up Regulator'
+PRP Switching_Frequency(Typ)(kHz) '650, 1200'
+PRP Topology 'Boost'
+PRP Vin(Max)(V) '6'
+PRP Vin(Min)(V) '2.5'
+PRP Vout(Max)(V) '18.5'
+PRP Vout(Min)(V) '3'
+TOP 0 1.3494095 1.7125984 270 N 42 0 1
+TOP 1 1.3494095 1.6929134 270 N 43 0 2
+TOP 2 1.3494095 1.6732283 270 N 31 6 3
+TOP 3 1.3494095 1.6535433 270 N 56 25 4
+TOP 4 1.3494095 1.6338583 270 N 56 24 5
+TOP 5 1.4655512 1.6338583 270 N 27 2 6
+TOP 6 1.4655512 1.6535433 270 N 27 1 7
+TOP 7 1.4655512 1.6732283 270 N 31 5 8
+TOP 8 1.4655512 1.6929134 270 N 31 4 9
+TOP 9 1.4655512 1.7125984 270 N 46 0 10
+TOP 10 1.4074804 1.6732283 0 N 56 26 11
+#
+# CMP 26
+CMP 26 0.7458464 1.6240157 0 N U2 LP5907MFX-3.2/NOPB ;0=1,1=0.0000
+PRP Arrow_Asia-Purchase-URL 'https://snapeda.com/shop?store=Arrow+Asia&id=559784'
+PRP Availability 'Good'
+PRP DigiKey-Purchase-URL 'https://snapeda.com/shop?store=DigiKey&id=559784'
+PRP MF 'Texas Instruments'
+PRP Mouser-Purchase-URL 'https://snapeda.com/shop?store=Mouser&id=559784'
+PRP MP 'LP5907MFX-3.2/NOPB'
+PRP Package 'SOT-23-5 Texas Instruments'
+PRP Price 'None'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/LP5907MFX-3.2/NOPB/Texas%20Instruments/view-part/559784/?ref=snap'
+PRP Texas_Instruments-Purchase-URL 'https://snapeda.com/shop?store=Texas+Instruments&id=559784'
+PRP Value ''
+TOP 0 0.696437 1.6614173 0 N 31 2 1
+TOP 1 0.696437 1.6240157 0 N 56 23 2
+TOP 2 0.696437 1.5866141 0 N 31 3 3
+TOP 3 0.7952558 1.5866141 0 N 0 5 4
+TOP 4 0.7952558 1.6614173 0 N 18 0 5
+#
+# CMP 27
+CMP 18 1.4271653 0.9251969 270 N TP16 0.1"_Pad ;0=1,1=0.0000
+TOP 0 1.4271653 0.9251969 180 N 54 3 1
+#
+# CMP 28
+CMP 18 1.3779528 0.9840945 270 N TP15 0.1"_Pad ;0=1,1=0.0000
+TOP 0 1.3779528 0.9840945 180 N 36 1 1
+#
+# CMP 29
+CMP 18 1.4744094 0.9940945 270 N TP14 0.1"_Pad ;0=1,1=0.0000
+TOP 0 1.4744094 0.9940945 180 N 35 1 1
+#
+# CMP 30
+CMP 18 0.0590551 0.2854331 0 N TP13 0.1"_Pad ;0=1,1=0.0000
+TOP 0 0.0590551 0.2854331 270 N 56 42 1
+#
+# CMP 31
+CMP 18 0.1673228 0.2854331 270 N TP12 0.1"_Pad ;0=1,1=0.0000
+TOP 0 0.1673228 0.2854331 180 N 62 3 1
+#
+# CMP 32
+CMP 18 0.1673228 0.4724409 270 N TP11 0.1"_Pad ;0=1,1=0.0000
+TOP 0 0.1673228 0.4724409 180 N 57 2 1
+#
+# CMP 33
+CMP 18 2.1161417 2.3129921 270 N TP10 0.1"_Pad ;0=1,1=0.0000
+TOP 0 2.1161417 2.3129921 180 N 51 1 1
+#
+# CMP 34
+CMP 18 0.0590551 0.3740157 270 N TP9 0.1"_Pad ;0=1,1=0.0000
+TOP 0 0.0590551 0.3740157 180 N 50 2 1
+#
+# CMP 35
+CMP 18 0.1673228 0.3740157 0 N TP8 0.1"_Pad ;0=1,1=0.0000
+TOP 0 0.1673228 0.3740157 270 N 49 1 1
+#
+# CMP 36
+CMP 18 1.4118114 2.222441 270 N TP7 0.1"_Pad ;0=1,1=0.0000
+TOP 0 1.4118114 2.222441 180 N 40 1 1
+#
+# CMP 37
+CMP 18 2.1047766 2.1458859 270 N TP6 0.1"_Pad ;0=1,1=0.0000
+TOP 0 2.1047766 2.1458859 180 N 62 4 1
+#
+# CMP 38
+CMP 18 1.0826772 1.9151417 270 N TP5 0.1"_Pad ;0=1,1=0.0000
+TOP 0 1.0826772 1.9151417 180 N 60 2 1
+#
+# CMP 39
+CMP 18 0.4061181 1.3763626 270 N TP4 0.1"_Pad ;0=1,1=0.0000
+TOP 0 0.4061181 1.3763626 180 N 53 0 1
+#
+# CMP 40
+CMP 18 0.0590551 0.472441 270 N TP3 0.1"_Pad ;0=1,1=0.0000
+TOP 0 0.0590551 0.472441 180 N 56 41 1
+#
+# CMP 41
+CMP 18 0.5019685 1.3582677 270 N TP2 0.1"_Pad ;0=1,1=0.0000
+TOP 0 0.5019685 1.3582677 180 N 52 0 1
+#
+# CMP 42
+CMP 18 0.0590551 2.106072 270 N TP1 0.1"_Pad ;0=1,1=0.0000
+TOP 0 0.0590551 2.106072 180 N 30 9 1
+#
+# CMP 43
+CMP 22 0.9775001 1.5452756 90 N R24 Jumper ;0=1,1=0.0276
+PRP Case-EIA '0805'
+PRP Case-Metric '2012'
+PRP Power 'None'
+PRP Technology 'SMT'
+PRP Tolerance 'None'
+PRP Value '0.00 Ohm'
+TOP 0 0.9775002 1.5826771 0 N 18 1 1
+TOP 1 0.9775002 1.507874 0 N 62 13 2
+#
+# CMP 44
+CMP 22 0.7086614 1.7985669 90 N R23 Jumper ;0=1,1=0.0276
+PRP Case-EIA '0805'
+PRP Case-Metric '2012'
+PRP Power 'None'
+PRP Technology 'SMT'
+PRP Tolerance 'None'
+PRP Value '0.00 Ohm'
+TOP 0 0.7086615 1.8359684 0 N 15 4 1
+TOP 1 0.7086615 1.7611653 0 N 31 8 2
+#
+# CMP 45
+CMP 22 2.07 1.54 270 N R22 Jumper ;0=1,1=0.0276
+PRP Case-EIA '0805'
+PRP Case-Metric '2012'
+PRP Power 'None'
+PRP Technology 'SMT'
+PRP Tolerance 'None'
+PRP Value '0.00 Ohm'
+TOP 0 2.0699999 1.5025985 180 N 61 2 1
+TOP 1 2.0699999 1.5774016 180 N 16 3 2
+#
+# CMP 46
+CMP 21 0.9545077 1.7985669 0 N R21 1K13_1% ;0=1,1=0.0236
+PRP Case-EIA '0603'
+PRP Case-Metric '1608'
+PRP Power '0.1 W'
+PRP Technology 'SMT'
+PRP Tolerance '1 %'
+PRP Value '1130.00 Ohm'
+TOP 0 0.9230117 1.7985669 270 N 56 40 1
+TOP 1 0.9860038 1.7985669 270 N 58 1 2
+#
+# CMP 47
+CMP 21 0.8070866 1.8827873 270 N R20 1K13_1% ;0=1,1=0.0236
+PRP Case-EIA '0603'
+PRP Case-Metric '1608'
+PRP Power '0.1 W'
+PRP Technology 'SMT'
+PRP Tolerance '1 %'
+PRP Value '1130.00 Ohm'
+TOP 0 0.8070866 1.8512913 180 N 56 39 1
+TOP 1 0.8070866 1.9142834 180 N 59 1 2
+#
+# CMP 48
+CMP 21 0.7874016 2.253937 270 N R19 1K_1% ;0=1,1=0.0236
+PRP Case-EIA '0603'
+PRP Case-Metric '1608'
+PRP Power '0.1 W'
+PRP Technology 'SMT'
+PRP Tolerance '1 %'
+PRP Value '1000.00 Ohm'
+TOP 0 0.7874016 2.222441 180 N 25 1 1
+TOP 1 0.7874016 2.2854331 180 N 23 0 2
+#
+# CMP 49
+CMP 21 0.7405601 2.0655276 270 N R18 1K_1% ;0=1,1=0.0236
+PRP Case-EIA '0603'
+PRP Case-Metric '1608'
+PRP Power '0.1 W'
+PRP Technology 'SMT'
+PRP Tolerance '1 %'
+PRP Value '1000.00 Ohm'
+TOP 0 0.7405601 2.0340316 180 N 26 1 1
+TOP 1 0.7405601 2.0970237 180 N 24 0 2
+#
+# CMP 50
+CMP 21 1.3090551 1.7985669 90 N R17 68K1_1% ;0=1,1=0.0236
+PRP Case-EIA '0603'
+PRP Case-Metric '1608'
+PRP Power '0.1 W'
+PRP Technology 'SMT'
+PRP Tolerance '1 %'
+PRP Value '68100.00 Ohm'
+TOP 0 1.3090551 1.8300629 0 N 45 0 1
+TOP 1 1.3090551 1.7670708 0 N 42 1 2
+#
+# CMP 51
+CMP 21 1.742126 1.7985669 0 N R16 39K_1%_0603(1608) ;0=1,1=0.0236
+PRP Case-EIA '0603'
+PRP Case-Metric '1608'
+PRP Power '0.1 W'
+PRP Technology 'SMT'
+PRP Tolerance '1 %'
+PRP Value '39000.00 Ohm'
+TOP 0 1.71063 1.7985669 270 N 56 38 1
+TOP 1 1.7736221 1.7985669 270 N 43 2 2
+#
+# CMP 52
+CMP 21 1.9094488 1.7985669 0 N R15 150K_1%_0603(1608) ;0=1,1=0.0236
+PRP Case-EIA '0603'
+PRP Case-Metric '1608'
+PRP Power '0.1 W'
+PRP Technology 'SMT'
+PRP Tolerance '1 %'
+PRP Value '150000.00 Ohm'
+TOP 0 1.8779528 1.7985669 270 N 43 1 1
+TOP 1 1.9409449 1.7985669 270 N 61 1 2
+#
+# CMP 53
+CMP 21 1.4173228 2.0136241 90 N R14 10K_1%_0603(1608) ;0=1,1=0.0236
+PRP Case-EIA '0603'
+PRP Case-Metric '1608'
+PRP Power '0.1 W'
+PRP Technology 'SMT'
+PRP Tolerance '1 %'
+PRP Value '10000.00 Ohm'
+TOP 0 1.4173228 2.0451201 0 N 40 0 1
+TOP 1 1.4173228 1.982128 0 N 62 12 2
+#
+# CMP 54
+CMP 21 0.3444882 0.560092 90 N R13 10K_1%_0603(1608) ;0=1,1=0.0236
+PRP Case-EIA '0603'
+PRP Case-Metric '1608'
+PRP Power '0.1 W'
+PRP Technology 'SMT'
+PRP Tolerance '1 %'
+PRP Value '10000.00 Ohm'
+TOP 0 0.3444882 0.591588 0 N 57 3 1
+TOP 1 0.3444882 0.5285959 0 N 62 20 2
+#
+# CMP 55
+CMP 21 1.4951115 0.8619472 270 N R12 100R_1% ;0=1,1=0.0236
+PRP Case-EIA '0603'
+PRP Case-Metric '1608'
+PRP Power '0.1 W'
+PRP Technology 'SMT'
+PRP Tolerance '1 %'
+PRP Value '100.00 Ohm'
+TOP 0 1.4951115 0.8304512 180 N 48 0 1
+TOP 1 1.4951115 0.8934433 180 N 54 2 2
+#
+# CMP 56
+CMP 21 1.4551181 0.7362205 90 N R11 10K_1% ;0=1,1=0.0236
+PRP Case-EIA '0603'
+PRP Case-Metric '1608'
+PRP Power '0.1 W'
+PRP Technology 'SMT'
+PRP Tolerance '1 %'
+PRP Value '10000.00 Ohm'
+TOP 0 1.4551181 0.7677165 0 N 54 4 1
+TOP 1 1.4551181 0.7047244 0 N 62 11 2
+#
+# CMP 57
+CMP 21 0.8403345 0.6143898 90 N R10 27R_1% ;0=1,1=0.0236
+PRP Case-EIA '0603'
+PRP Case-Metric '1608'
+PRP Power '0.1 W'
+PRP Technology 'SMT'
+PRP Tolerance '1 %'
+PRP Value '27.00 Ohm'
+TOP 0 0.8403345 0.6458858 0 N 37 0 1
+TOP 1 0.8403345 0.5828937 0 N 51 0 2
+#
+# CMP 58
+CMP 21 0.4429134 0.6143898 90 N R9 27R_1% ;0=1,1=0.0236
+PRP Case-EIA '0603'
+PRP Case-Metric '1608'
+PRP Power '0.1 W'
+PRP Technology 'SMT'
+PRP Tolerance '1 %'
+PRP Value '27.00 Ohm'
+TOP 0 0.4429134 0.6458858 0 N 39 0 1
+TOP 1 0.4429134 0.5828937 0 N 50 0 2
+#
+# CMP 59
+CMP 21 0.5216535 0.5314961 90 N R8 27R_1% ;0=1,1=0.0236
+PRP Case-EIA '0603'
+PRP Case-Metric '1608'
+PRP Power '0.1 W'
+PRP Technology 'SMT'
+PRP Tolerance '1 %'
+PRP Value '27.00 Ohm'
+TOP 0 0.5216535 0.5629921 0 N 38 0 1
+TOP 1 0.5216535 0.5 0 N 49 0 2
+#
+# CMP 60
+CMP 21 1.1417323 0.5629921 180 N R7 1K_1% ;0=1,1=0.0236
+PRP Case-EIA '0603'
+PRP Case-Metric '1608'
+PRP Power '0.1 W'
+PRP Technology 'SMT'
+PRP Tolerance '1 %'
+PRP Value '1000.00 Ohm'
+TOP 0 1.1732283 0.5629921 90 N 62 10 1
+TOP 1 1.1102362 0.5629921 90 N 44 0 2
+#
+# CMP 61
+CMP 21 1.0826772 1.8251418 90 N R6 1K_1% ;0=1,1=0.0236
+PRP Case-EIA '0603'
+PRP Case-Metric '1608'
+PRP Power '0.1 W'
+PRP Technology 'SMT'
+PRP Tolerance '1 %'
+PRP Value '1000.00 Ohm'
+TOP 0 1.0826772 1.8566378 0 N 60 1 1
+TOP 1 1.0826772 1.7936457 0 N 56 37 2
+#
+# CMP 62
+CMP 21 0.0688976 1.9192913 90 N R5 1K_1% ;0=1,1=0.0236
+PRP Case-EIA '0603'
+PRP Case-Metric '1608'
+PRP Power '0.1 W'
+PRP Technology 'SMT'
+PRP Tolerance '1 %'
+PRP Value '1000.00 Ohm'
+TOP 0 0.0688976 1.9507873 0 N 30 3 1
+TOP 1 0.0688976 1.8877952 0 N 47 1 2
+#
+# CMP 63
+CMP 21 0.1377953 1.8566378 270 N R4 Jumper ;0=1,1=0.0236
+PRP Case-EIA '0603'
+PRP Case-Metric '1608'
+PRP Power 'None'
+PRP Technology 'SMT'
+PRP Tolerance 'None'
+PRP Value '0.00 Ohm'
+TOP 0 0.1377953 1.8251418 180 N 32 0 1
+TOP 1 0.1377953 1.8881339 180 N 47 0 2
+#
+# CMP 64
+CMP 21 0.3444882 1.6417323 90 N R3 1K_1% ;0=1,1=0.0236
+PRP Case-EIA '0603'
+PRP Case-Metric '1608'
+PRP Power '0.1 W'
+PRP Technology 'SMT'
+PRP Tolerance '1 %'
+PRP Value '1000.00 Ohm'
+TOP 0 0.3444882 1.6732283 0 N 17 0 1
+TOP 1 0.3444882 1.6102362 0 N 30 2 2
+#
+# CMP 65
+CMP 6 1.620847 1.6747167 90 N L1 XFL4020-102MEC ;0=1,1=0.0827
+PRP Case_Height '2.1mm'
+PRP Case_Length '4.3mm'
+PRP Case_Width '4.3mm'
+PRP Core_Material 'Composite'
+PRP Datasheet_URL 'http://www.mouser.com/ds/2/597/xfl4020-270756.pdf'
+PRP Datasheet_Version '07/2012'
+PRP Dimensions '4.3mmWx4.3mmLx2.1mmH'
+PRP Inductance '1uH'
+PRP Manufacturer 'Coilcraft'
+PRP Manufacturer_URL 'http://www.coilcraft.com/'
+PRP Maximum_DC_Current '11A'
+PRP Maximum_DC_Resistance '11.9mOhms'
+PRP Mounting_Technology 'SurfaceMount'
+PRP Operating_Temperature_Range '-40Cto+125C'
+PRP Package_Description '2-Pin Surface Mount Device, Body 4 x 4 mm, Pitch 2.37 mm'
+PRP Package_Reference 'XFL4020'
+PRP Packaging 'Reel'
+PRP Product 'PowerInductors'
+PRP RoHS 'Details'
+PRP Self_Resonant_Frequency '64MHz'
+PRP Series 'XFL4020'
+PRP Shielding 'Shielded'
+PRP Termination_Style 'SMD/SMT'
+PRP Test_Frequency '100kHz'
+PRP Tolerance '20%'
+TOP 0 1.620847 1.7213702 90 N 31 14 1
+TOP 1 1.620847 1.6280631 90 N 27 4 2
+#
+# CMP 66
+CMP 16 0.257874 2.027 180 N FB1 BLM21PG221SN1D ;0=1,1=0.0413
+PRP ComponentLink1Description 'Manufacturer URL'
+PRP ComponentLink1URL 'http://www.murata.com/'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'http://www.murata.com/products/catalog/pdf/c31e.pdf'
+PRP ComponentLink3Description 'Package Specification'
+PRP ComponentLink3URL 'http://www.murata.com/products/catalog/pdf/c31e.pdf'
+PRP DatasheetVersion '08/2013'
+PRP DC_Resistance '0.045 Ohm Max.'
+PRP Impedance_(at_100_MHz) '220 Ohm +/- 25%'
+PRP Manufacturer 'Murata'
+PRP Mounting_Technology 'Surface Mount'
+PRP Operating_Temperature_Range '-55 to 125 degC'
+PRP PackageDescription '2-Pin Chip, Body 2 x 1.25 mm'
+PRP PackageReference 'BLM21_H1050-2'
+PRP Packing 'Tape and Reel'
+PRP PartNumber 'BLM21PG221SN1D'
+PRP Rated_Current '2000 mA'
+TOP 0 0.3090551 2.027 180 N 33 2 1
+TOP 1 0.2066929 2.027 180 N 30 6 2
+#
+# CMP 67
+CMP 12 1.0293109 0.5905512 270 N DS1 LTST-C191KGKT ;0=1,1=0.0217
+PRP Chip_Material 'AlGaInP'
+PRP Datasheet_URL 'http://download.siliconexpert.com/pdfs/2007/08/26/semi_b/manual/lot/ds/ltst-c191kgkt.pdf'
+PRP Datasheet_Version 'Jan-07'
+PRP DELETED 'Compliant'
+PRP Dominant_Wave_Length '571nm'
+PRP Emitting_Color 'YellowGreen'
+PRP Forward_Current '30mA'
+PRP Forward_Voltage '2.4V'
+PRP High_Brightness 'Yes'
+PRP Lens_Dimensions '1.1X0.8X0.37mm'
+PRP Lum_Intensity '35mcd'
+PRP Luminous_Intensity '35mcd'
+PRP Main_Category 'ChipLED'
+PRP Manufacturer 'Lite-On'
+PRP Manufacturer_URL 'http://www.us.liteon.com/'
+PRP Mounting 'SurfaceMount'
+PRP Number_of_Elements '1'
+PRP Operating_Temp_Range '-55Cto85C'
+PRP Operating_Temperature_Classification 'Industrial'
+PRP Package_Type 'ChipLed'
+PRP Packaging 'TapeandReel'
+PRP Peak_Wavelength '574nm'
+PRP Pin_Count '2'
+PRP Power_Dissipation '75W'
+PRP Product_Depth_(mm) '0.8mm'
+PRP Product_Height_(mm) '0.55mm'
+PRP Product_Length_(mm) '1.6mm'
+PRP Rad_Hardened 'No'
+PRP Reverse_Voltage '5V'
+PRP Shape_Type 'Rectangular'
+PRP Test_Current_(It) '20mA'
+PRP Type 'Uni-Color'
+PRP Viewing_Angle '130deg'
+TOP 0 1.0293109 0.5610236 270 N 44 1 1
+TOP 1 1.0293109 0.6200788 90 N 55 0 2
+#
+# CMP 68
+CMP 13 0.265748 1.7125984 270 N D5 LTST-C170CKT ;0=1,1=0.0433
+PRP Colour 'Red'
+PRP ComponentLink1Description 'Manufacturer URL'
+PRP ComponentLink1URL 'http://www.us.liteon.com/'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'http://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/LTST-C170CKT.pdf'
+PRP DatasheetVersion '03/2003'
+PRP Height '1.1 mm'
+PRP Length '2 mm'
+PRP Manufacturer 'Lite-On'
+PRP Max_Operating_Temperature '85 degC'
+PRP Min_Operating_Temperature '-55 degC'
+PRP Mount 'Surface Mount'
+PRP Mounting_Technology 'Surface Mount'
+PRP Package_Quantity '3000'
+PRP PackageDescription '2-Pin Surface Mount Device, Body 2 x 1.25 mm'
+PRP PackageReference 'C170CKT'
+PRP Packaging 'Tape and Reel'
+PRP Pins '2'
+PRP RoHSCompliant 'true'
+TOP 0 0.265748 1.6712598 270 N 17 1 1
+TOP 1 0.265748 1.753937 90 N 41 0 2
+#
+# CMP 69
+CMP 14 0.7283465 2.2407874 270 N D4 LTST-C170GKT ;0=1,1=0.0433
+PRP Colour 'Green'
+PRP ComponentLink1Description 'Manufacturer URL'
+PRP ComponentLink1URL 'http://www.us.liteon.com/'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'http://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/LTST-C170GKT.pdf'
+PRP DatasheetVersion '03/2003'
+PRP Height '1.1 mm'
+PRP Length '2 mm'
+PRP Manufacturer 'Lite-On'
+PRP Max_Operating_Temperature '85 degC'
+PRP Min_Operating_Temperature '-55 degC'
+PRP Mount 'Surface Mount'
+PRP Mounting_Technology 'Surface Mount'
+PRP Package_Quantity '1'
+PRP PackageDescription '2-Pin Surface Mount Device, Body 2 x 1.25 mm'
+PRP PackageReference 'C170GKT'
+PRP Packaging 'Tape and Reel'
+PRP Pins '2'
+PRP RoHSCompliant 'true'
+TOP 0 0.7283465 2.1994488 270 N 15 7 1
+TOP 1 0.7283465 2.282126 90 N 23 1 2
+#
+# CMP 70
+CMP 13 0.6746049 2.0572272 270 N D3 LTST-C170CKT ;0=1,1=0.0433
+PRP Colour 'Red'
+PRP ComponentLink1Description 'Manufacturer URL'
+PRP ComponentLink1URL 'http://www.us.liteon.com/'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'http://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/LTST-C170CKT.pdf'
+PRP DatasheetVersion '03/2003'
+PRP Height '1.1 mm'
+PRP Length '2 mm'
+PRP Manufacturer 'Lite-On'
+PRP Max_Operating_Temperature '85 degC'
+PRP Min_Operating_Temperature '-55 degC'
+PRP Mount 'Surface Mount'
+PRP Mounting_Technology 'Surface Mount'
+PRP Package_Quantity '3000'
+PRP PackageDescription '2-Pin Surface Mount Device, Body 2 x 1.25 mm'
+PRP PackageReference 'C170CKT'
+PRP Packaging 'Tape and Reel'
+PRP Pins '2'
+PRP RoHSCompliant 'true'
+TOP 0 0.6746049 2.0158886 270 N 15 6 1
+TOP 1 0.6746049 2.0985658 90 N 24 1 2
+#
+# CMP 71
+CMP 8 1.8665551 1.6742401 0 N D2 B340A-13-F ;0=1,1=0.0945
+PRP Case\Package 'SMA'
+PRP ComponentLink1Description 'Manufacturer URL'
+PRP ComponentLink1URL 'http://www.diodes.com/'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'http://www.diodes.com/_files/datasheets/ds30891.pdf'
+PRP DatasheetVersion 'Rev. 17 - 2, 09/2015'
+PRP Elements '1'
+PRP Forward_Current '3 A'
+PRP Forward_Voltage '500 mV'
+PRP Height '2.1 mm'
+PRP Length '4.6 mm'
+PRP Max_Operating_Temperature '125 degC'
+PRP Max_Surge_Current '80 A'
+PRP Min_Operating_Temperature '-55 degC'
+PRP Mount 'Surface Mount'
+PRP Mounting_Technology 'Surface Mount'
+PRP Package_Quantity '5000'
+PRP PackageDescription '2-Pin Surface Mounted Assembly, Body 4.3 x 2.605 mm, Height 2.4 mm'
+PRP PackageReference 'SMA-2'
+PRP Packaging 'Tape and Reel'
+PRP Peak_Reverse_Current '500 uA'
+PRP Pins '2'
+PRP Radiation_Hardening 'No'
+PRP REACH_SVHC 'No SVHC'
+PRP RoHSCompliant 'true'
+PRP Width '2.92 mm'
+TOP 0 1.7878149 1.6742401 270 N 27 3 1
+TOP 1 1.9452952 1.6742401 270 N 61 5 2
+#
+# CMP 72
+CMP 5 1.1710432 2.0443905 0 N C26 4.7uF_16V ;0=1,1=0.0571
+PRP Case-EIA '0805'
+PRP Case-Metric '2012'
+PRP Max_Thickness '1.45 mm'
+PRP Rated_Voltage '16 V'
+PRP Technology 'SMT'
+PRP Tolerance '-20% to +80%'
+PRP Value '4.7uF'
+TOP 0 1.1356102 2.0443906 270 N 34 4 1
+TOP 1 1.2064763 2.0443906 270 N 56 63 2
+#
+# CMP 73
+CMP 5 0.6102362 1.8552572 270 N C25 4.7uF_16V ;0=1,1=0.0571
+PRP Case-EIA '0805'
+PRP Case-Metric '2012'
+PRP Max_Thickness '1.45 mm'
+PRP Rated_Voltage '16 V'
+PRP Technology 'SMT'
+PRP Tolerance '-20% to +80%'
+PRP Value '4.7uF'
+TOP 0 0.6102361 1.8198242 180 N 56 62 1
+TOP 1 0.6102361 1.8906903 180 N 15 5 2
+#
+# CMP 74
+CMP 4 0.265748 1.5255906 270 N C24 1uF_16V ;0=1,1=0.0394
+PRP Case-EIA '0603'
+PRP Case-Metric '1608'
+PRP Max_Thickness '1 mm'
+PRP Rated_Voltage '16 V'
+PRP Technology 'SMT'
+PRP Tolerance '?°¿5%'
+PRP Value '1uF'
+TOP 0 0.265748 1.4940946 180 N 56 101 1
+TOP 1 0.265748 1.5570867 180 N 30 8 2
+#
+# CMP 75
+CMP 4 1.2204723 1.8585957 90 N C23 CAP_820pF_10V_0603(1608) ;0=1,1=0.0394
+PRP Case-EIA '0603'
+PRP Case-Metric '1608'
+PRP Max_Thickness '1 mm'
+PRP Rated_Voltage '10 V'
+PRP Technology 'SMT'
+PRP Tolerance '?°¿10%'
+PRP Value '820pF'
+TOP 0 1.2204723 1.8900917 0 N 56 61 1
+TOP 1 1.2204723 1.8270996 0 N 45 1 2
+#
+# CMP 76
+CMP 4 1.4074803 1.8162835 90 N C22 100nF_16V ;0=1,1=0.0394
+PRP Case-EIA '0603'
+PRP Case-Metric '1608'
+PRP Max_Thickness '1 mm'
+PRP Rated_Voltage '16 V'
+PRP Technology 'SMT'
+PRP Tolerance '?°¿10%'
+PRP Value '100nF'
+TOP 0 1.4074803 1.8477795 0 N 56 60 1
+TOP 1 1.4074803 1.7847874 0 N 46 1 2
+#
+# CMP 77
+CMP 5 2.0575916 2.0809341 180 N C21 22uF_10V ;0=1,1=0.0571
+PRP Case-EIA '0805'
+PRP Case-Metric '2012'
+PRP Max_Thickness '1.45 mm'
+PRP Rated_Voltage '10 V'
+PRP Technology 'SMT'
+PRP Tolerance '?°¿20%'
+PRP Value '22uF'
+TOP 0 2.0930246 2.080934 90 N 56 59 1
+TOP 1 2.0221585 2.080934 90 N 61 4 2
+#
+# CMP 78
+CMP 5 2.0575916 1.9810257 180 N C20 22uF_10V ;0=1,1=0.0571
+PRP Case-EIA '0805'
+PRP Case-Metric '2012'
+PRP Max_Thickness '1.45 mm'
+PRP Rated_Voltage '10 V'
+PRP Technology 'SMT'
+PRP Tolerance '?°¿20%'
+PRP Value '22uF'
+TOP 0 2.0930246 1.9810256 90 N 56 58 1
+TOP 1 2.0221585 1.9810256 90 N 61 3 2
+#
+# CMP 79
+CMP 5 1.2204724 1.6826898 270 N C19 22uF_10V ;0=1,1=0.0571
+PRP Case-EIA '0805'
+PRP Case-Metric '2012'
+PRP Max_Thickness '1.45 mm'
+PRP Rated_Voltage '10 V'
+PRP Technology 'SMT'
+PRP Tolerance '?°¿20%'
+PRP Value '22uF'
+TOP 0 1.2204723 1.6472568 180 N 56 57 1
+TOP 1 1.2204723 1.7181229 180 N 31 13 2
+#
+# CMP 80
+CMP 5 1.1139833 1.6849173 270 N C18 22uF_10V ;0=1,1=0.0571
+PRP Case-EIA '0805'
+PRP Case-Metric '2012'
+PRP Max_Thickness '1.45 mm'
+PRP Rated_Voltage '10 V'
+PRP Technology 'SMT'
+PRP Tolerance '?°¿20%'
+PRP Value '22uF'
+TOP 0 1.1139832 1.6494843 180 N 56 56 1
+TOP 1 1.1139832 1.7203504 180 N 31 12 2
+#
+# CMP 81
+CMP 5 1.0094769 1.6849173 270 N C17 22uF_10V ;0=1,1=0.0571
+PRP Case-EIA '0805'
+PRP Case-Metric '2012'
+PRP Max_Thickness '1.45 mm'
+PRP Rated_Voltage '10 V'
+PRP Technology 'SMT'
+PRP Tolerance '?°¿20%'
+PRP Value '22uF'
+TOP 0 1.0094768 1.6494843 180 N 56 55 1
+TOP 1 1.0094768 1.7203504 180 N 31 11 2
+#
+# CMP 82
+CMP 4 0.9052951 1.6712598 270 N C16 1uF_16V ;0=1,1=0.0394
+PRP Case-EIA '0603'
+PRP Case-Metric '1608'
+PRP Max_Thickness '1 mm'
+PRP Rated_Voltage '16 V'
+PRP Technology 'SMT'
+PRP Tolerance '?°¿5%'
+PRP Value '1uF'
+TOP 0 0.9052951 1.6397638 180 N 56 54 1
+TOP 1 0.9052951 1.7027559 180 N 31 10 2
+#
+# CMP 83
+CMP 4 1.9980315 2.1754135 90 N C15 CAP_100nF_16V_0603(1608) ;0=1,1=0.0394
+PRP Case-EIA '0603'
+PRP Case-Metric '1608'
+PRP Max_Thickness '1 mm'
+PRP Rated_Voltage '16 V'
+PRP Technology 'SMT'
+PRP Tolerance '?°¿10%'
+PRP Value '100nF'
+TOP 0 1.9980315 2.2069095 0 N 56 53 1
+TOP 1 1.9980315 2.1439174 0 N 62 15 2
+#
+# CMP 84
+CMP 4 1.504 1.2480315 180 N C14 18pF_16V ;0=1,1=0.0394
+PRP Case-EIA '0603'
+PRP Case-Metric '1608'
+PRP Max_Thickness '1 mm'
+PRP Rated_Voltage '16 V'
+PRP Technology 'SMT'
+PRP Tolerance '?°¿5%'
+PRP Value '18pF'
+TOP 0 1.535496 1.2480315 90 N 56 97 1
+TOP 1 1.4725039 1.2480315 90 N 28 2 2
+#
+# CMP 85
+CMP 4 1.504 1.1533656 180 N C13 18pF_16V ;0=1,1=0.0394
+PRP Case-EIA '0603'
+PRP Case-Metric '1608'
+PRP Max_Thickness '1 mm'
+PRP Rated_Voltage '16 V'
+PRP Technology 'SMT'
+PRP Tolerance '?°¿5%'
+PRP Value '18pF'
+TOP 0 1.535496 1.1533656 90 N 56 98 1
+TOP 1 1.4725039 1.1533656 90 N 29 2 2
+#
+# CMP 86
+CMP 4 1.3460237 0.8547244 270 N C12 1uF_16V ;0=1,1=0.0394
+PRP Case-EIA '0603'
+PRP Case-Metric '1608'
+PRP Max_Thickness '1 mm'
+PRP Rated_Voltage '16 V'
+PRP Technology 'SMT'
+PRP Tolerance '?°¿5%'
+PRP Value '1uF'
+TOP 0 1.3460237 0.8232284 180 N 56 22 1
+TOP 1 1.3460237 0.8862205 180 N 54 1 2
+#
+# CMP 87
+CMP 5 1.3494095 0.7086614 270 N C11 CAP_10uF_16V ;0=1,1=0.0571
+PRP Case-EIA '0805'
+PRP Case-Metric '2012'
+PRP Max_Thickness '1.45 mm'
+PRP Rated_Voltage '16 V'
+PRP Technology 'SMT'
+PRP Tolerance '?°¿10%'
+PRP Value '10uF'
+TOP 0 1.3494094 0.6732284 180 N 56 36 1
+TOP 1 1.3494094 0.7440945 180 N 62 9 2
+#
+# CMP 88
+CMP 5 0.6791339 0.6397638 180 N C10 10uF_16V ;0=1,1=0.0571
+PRP Case-EIA '0805'
+PRP Case-Metric '2012'
+PRP Max_Thickness '1.45 mm'
+PRP Rated_Voltage '16 V'
+PRP Technology 'SMT'
+PRP Tolerance '?°¿10%'
+PRP Value '10uF'
+TOP 0 0.7145669 0.6397637 90 N 56 52 1
+TOP 1 0.6437008 0.6397637 90 N 62 14 2
+#
+# CMP 89
+CMP 4 0.8582674 1.5492125 270 N C9 1uF_16V ;0=1,1=0.0394
+PRP Case-EIA '0603'
+PRP Case-Metric '1608'
+PRP Max_Thickness '1 mm'
+PRP Rated_Voltage '16 V'
+PRP Technology 'SMT'
+PRP Tolerance '?°¿5%'
+PRP Value '1uF'
+TOP 0 0.8582674 1.5177165 180 N 56 51 1
+TOP 1 0.8582674 1.5807086 180 N 18 2 2
+#
+# CMP 90
+CMP 4 0.5684054 1.6338583 270 N C8 1uF_16V ;0=1,1=0.0394
+PRP Case-EIA '0603'
+PRP Case-Metric '1608'
+PRP Max_Thickness '1 mm'
+PRP Rated_Voltage '16 V'
+PRP Technology 'SMT'
+PRP Tolerance '?°¿5%'
+PRP Value '1uF'
+TOP 0 0.5684054 1.6023623 180 N 56 50 1
+TOP 1 0.5684054 1.6653544 180 N 31 9 2
+#
+# CMP 91
+CMP 4 0.1692914 1.9507873 180 N C7 100nF_16V ;0=1,1=0.0394
+PRP Case-EIA '0603'
+PRP Case-Metric '1608'
+PRP Max_Thickness '1 mm'
+PRP Rated_Voltage '16 V'
+PRP Technology 'SMT'
+PRP Tolerance '?°¿10%'
+PRP Value '100nF'
+TOP 0 0.2007874 1.9507873 90 N 56 49 1
+TOP 1 0.1377953 1.9507873 90 N 47 2 2
+#
+# CMP 92
+CMP 4 0.5720669 1.959496 180 N C6 47pF_16V ;0=1,1=0.0394
+PRP Case-EIA '0603'
+PRP Case-Metric '1608'
+PRP Max_Thickness '1 mm'
+PRP Rated_Voltage '16 V'
+PRP Technology 'SMT'
+PRP Tolerance '?°¿0.5pF'
+PRP Value '47pF'
+TOP 0 0.6035629 1.959496 90 N 56 48 1
+TOP 1 0.5405708 1.959496 90 N 22 0 2
+#
+# CMP 93
+CMP 4 0.3175355 1.9507873 0 N C5 47pF_16V ;0=1,1=0.0394
+PRP Case-EIA '0603'
+PRP Case-Metric '1608'
+PRP Max_Thickness '1 mm'
+PRP Rated_Voltage '16 V'
+PRP Technology 'SMT'
+PRP Tolerance '?°¿0.5pF'
+PRP Value '47pF'
+TOP 0 0.2860395 1.9507873 270 N 56 47 1
+TOP 1 0.3490316 1.9507873 270 N 21 0 2
+#
+# CMP 94
+CMP 5 0.0688976 1.6279528 90 N C4 4.7uF_16V ;0=1,1=0.0571
+PRP Case-EIA '0805'
+PRP Case-Metric '2012'
+PRP Max_Thickness '1.45 mm'
+PRP Rated_Voltage '16 V'
+PRP Technology 'SMT'
+PRP Tolerance '-20% to +80%'
+PRP Value '4.7uF'
+TOP 0 0.0688977 1.6633858 0 N 56 46 1
+TOP 1 0.0688977 1.5925197 0 N 30 5 2
+#
+# CMP 95
+CMP 4 0.1377953 1.6318898 90 N C3 100nF_16V ;0=1,1=0.0394
+PRP Case-EIA '0603'
+PRP Case-Metric '1608'
+PRP Max_Thickness '1 mm'
+PRP Rated_Voltage '16 V'
+PRP Technology 'SMT'
+PRP Tolerance '?°¿10%'
+PRP Value '100nF'
+TOP 0 0.1377953 1.6633858 0 N 56 45 1
+TOP 1 0.1377953 1.6003937 0 N 30 4 2
+#
+# CMP 96
+CMP 4 0.277559 2.1010719 0 N C2 10nF_16V ;0=1,1=0.0394
+PRP Case-EIA '0603'
+PRP Case-Metric '1608'
+PRP Max_Thickness '1 mm'
+PRP Rated_Voltage '16 V'
+PRP Technology 'SMT'
+PRP Tolerance '?°¿10%'
+PRP Value '10nF'
+TOP 0 0.246063 2.1010719 270 N 56 44 1
+TOP 1 0.3090551 2.1010719 270 N 33 1 2
+#
+# CMP 97
+CMP 4 0.0688977 1.7936457 270 N C1 100nF_16V ;0=1,1=0.0394
+PRP Case-EIA '0603'
+PRP Case-Metric '1608'
+PRP Max_Thickness '1 mm'
+PRP Rated_Voltage '16 V'
+PRP Technology 'SMT'
+PRP Tolerance '?°¿10%'
+PRP Value '100nF'
+TOP 0 0.0688977 1.7621497 180 N 56 43 1
+TOP 1 0.0688977 1.8251418 180 N 32 1 2
+#
+# CMP 98
+CMP 19 1.6001733 0.582152 0 N B1 PTS810_SJK_250_SMTR_LFS ;0=1,1=0.0000
+PRP Actuator 'Oval'
+PRP Brand 'C&K Components'
+PRP Color 'White'
+PRP ComponentLink1Description 'https://datasheet.ciiva.com/18514/pts810-4mar13-18514061.pdf'
+PRP ComponentLink1URL 'https://datasheet.ciiva.com/18514/pts810-4mar13-18514061.pdf'
+PRP ComponentLink2Description 'https://datasheet.ciiva.com/18514/pts810-4mar13-18514062.pdf'
+PRP ComponentLink2URL 'https://datasheet.ciiva.com/18514/pts810-4mar13-18514062.pdf'
+PRP ComponentLink3Description 'https://datasheet.ciiva.com/18514/pts810-4mar13-18514063.pdf'
+PRP ComponentLink3URL 'https://datasheet.ciiva.com/18514/pts810-4mar13-18514063.pdf'
+PRP Contact_Form 'SPST'
+PRP Contact_Plating 'Silver'
+PRP Current_Rating '50 mA'
+PRP Factory_Pack_Quantity '2900'
+PRP Manufacturer 'ITT /  C&K Components'
+PRP Manufacturer_Part_Number 'PTS810SJK250SMTRLFS'
+PRP Mounting_Direction 'Straight'
+PRP Mounting_Style 'SMD/SMT'
+PRP Operating_Force '2.6 N'
+PRP Operating_Temperature_Range '- 40 C to + 85 C'
+PRP Packaging 'Reel'
+PRP Part_#_Aliases 'Y97LT25B5DBFP'
+PRP Product_Category 'Tactile Switches'
+PRP RoHS 'Details'
+PRP Series 'PTS810'
+PRP Stem_Height '2.5 mm'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'CKN10503CT-ND'
+PRP Switch_Function 'OFF - (ON)'
+PRP Termination_Style 'J Form Lead'
+PRP Travel '0.15 mm'
+PRP Voltage_Rating_DC '16 VDC'
+TOP 0 1.5184805 0.6244749 180 N 48 2 1
+TOP 1 1.6818663 0.6244749 180 N 48 1 2
+TOP 2 1.5184805 0.5398293 180 N 56 94 3
+TOP 3 1.6818663 0.5398293 180 N 56 95 4
+#
+# CMP 99
+CMP 11 0.4395828 2.2373425 180 N J1 ZX62R-B-5P ;0=1,1=0.1043
+PRP ComponentLink1Description 'Manufacturer URL'
+PRP ComponentLink1URL 'http://www.hirose.com/‚Äé|ISIMPORTED=TRUE'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'http://www.hirose.co.jp/cataloge_hp/e24200011.pdf'
+PRP DatasheetVersion '08/2010'
+PRP Mounting_Technology 'Surface Mount'
+PRP Operating_Temperature '-30 to 85 degC'
+PRP PackageDescription '5-Pin USB Micro-B R/A Connector'
+PRP PackageReference 'ZX62R-B-5P'
+PRP PartNumber 'ZX62R-B-5P'
+TOP 0 0.3884016 2.184685 90 N 33 4 1
+TOP 1 0.4139921 2.184685 90 N 21 3 2
+TOP 2 0.4395827 2.184685 90 N 22 3 3
+TOP 3 0.4651733 2.184685 90 N 0 36 4
+TOP 4 0.4907638 2.184685 90 N 56 92 5
+TOP 5 0.5616299 2.1974803 0 N 56 90 6
+TOP 6 0.601 2.29 0 N 56 88 7
+TOP 7 0.4730473 2.29 0 N 56 86 8
+TOP 8 0.4061181 2.29 0 N 56 87 9
+TOP 9 0.2781654 2.29 0 N 56 89 10
+TOP 10 0.3175355 2.1974803 0 N 56 91 11
+#
+# CMP 100
+CMP 17 0.4338779 2.0565276 180 N D1 PRTR5V0U2X,215 ;0=1,1=0.0433
+PRP Capacitance_Value '16pF'
+PRP Configuration 'Quad'
+PRP Datasheet_URL 'https://datasheet.ciiva.com/4479/prtr5v0u2x-102853-4479461.pdf'
+PRP Datasheet_Version 'Rev. 02, 01/2008'
+PRP Direction_Type 'Uni-Directional'
+PRP ESD_Protection_Voltage '8KV@ContactDisc'
+PRP Leakage_Current '0.1uA'
+PRP Leakage_Current_(Max) '0.1uA'
+PRP Manufacturer 'NXP Semiconductors'
+PRP Manufacturer_URL 'http://www.nxp.com/'
+PRP Mounting 'SurfaceMount'
+PRP Mounting_Style 'SurfaceMount'
+PRP Number_of_Elements '1'
+PRP Operating_Temperature_Classification 'Industrial'
+PRP Operating_Temperature_Max_Deg._C '85C'
+PRP Operating_Temperature_Min_Deg._C '-40C'
+PRP Operating_Temp_Range '-40Cto85C'
+PRP Package_/_Case 'SOT'
+PRP Package_Type 'SOT'
+PRP Packaging 'TapeandReel'
+PRP Pin_Count '3+Tab'
+PRP Polarity 'Uni-Directional'
+PRP Product_Depth_(mm) '1.4mm'
+PRP Product_Height_(mm) '1mm'
+PRP Product_Length_(mm) '3mm'
+PRP Rad_Hardened 'No'
+PRP Reverse_Breakdown_Voltage '6V'
+PRP Reverse_Stand-off_Voltage '5.5V'
+PRP Suppressor_Type 'DiodeArrays'
+PRP Working_Voltage '5.5V'
+PRP Working_Voltage_(Max) '5.5V'
+TOP 0 0.473248 2.027 90 N 56 85 1
+TOP 1 0.473248 2.0939291 90 N 22 2 2
+TOP 2 0.3945078 2.0939291 90 N 21 2 3
+TOP 3 0.3945078 2.019126 90 N 33 3 4
+#
+# CMP 101
+CMP 24 0.7978346 0.984252 180 N U4 SAMW25H18-MR510PB ;0=1,1=0.0000
+PRP Antenna_Type 'Integrated, Trace'
+PRP Category 'RF/IF and RFID'
+PRP ComponentLink1Description 'http://www.atmel.com/devices/ATSAMW25.aspx'
+PRP ComponentLink1URL 'http://www.atmel.com/devices/ATSAMW25.aspx'
+PRP ComponentLink2Description 'http://www.farnell.com/datasheets/1965115.pdf'
+PRP ComponentLink2URL 'http://www.farnell.com/datasheets/1965115.pdf'
+PRP Current_-_Receiving '-'
+PRP Current_-_Transmitting '-'
+PRP Data_Rate '65Mbps'
+PRP Family 'RF Transceiver Modules'
+PRP Frequency '2.4GHz'
+PRP Manufacturer 'Atmel'
+PRP Manufacturer_Part_Number 'ATSAMW25H18-MR510PB'
+PRP Memory_Size '256kB Flash, 32kB SRAM'
+PRP Modulation '-'
+PRP Mounting_Type 'Surface Mount'
+PRP Operating_Temperature '-40°„C ~ 85°„C'
+PRP Package_/_Case 'Module'
+PRP Packaging 'Tray'
+PRP Power_-_Output '17dBm'
+PRP Pricing_1 '1=19.14 (USD)'
+PRP Protocol '802.11b/g/n'
+PRP RF_Family/Standard 'WiFi'
+PRP Sensitivity '-95.5dBm'
+PRP Serial_Interfaces 'SPI, UART'
+PRP Series 'Xplained Pro'
+PRP Stock_1 '120'
+PRP Supplier_1 'Digikey'
+PRP Supplier_Part_Number_1 'ATSAMW25H18-MR510PB-ND'
+PRP Voltage_-_Supply '2.7 V ~ 4.2 V'
+TOP 0 0.4810826 1.025378 180 N 56 70 0
+TOP 1 0.5684054 1.025378 180 N 56 71 0
+TOP 2 0.4810826 0.9394725 180 N 56 72 0
+TOP 3 0.5684054 0.9394725 180 N 56 73 0
+TOP 4 0.9636023 1.0172677 180 N 56 74 0
+TOP 5 1.0760038 1.0172677 180 N 56 75 0
+TOP 6 0.9636023 0.9021496 180 N 56 76 0
+TOP 7 1.0760038 0.9021496 180 N 56 77 0
+TOP 8 0.3206495 0.7204725 180 N 56 84 1
+TOP 9 0.3678936 0.7204725 180 N 0 35 2
+TOP 10 0.4151377 0.7204725 180 N 0 34 3
+TOP 11 0.4623818 0.7204725 180 N 0 33 4
+TOP 12 0.5096259 0.7204725 180 N 0 32 5
+TOP 13 0.55687 0.7204725 180 N 0 31 6
+TOP 14 0.6041141 0.7204725 180 N 62 18 7
+TOP 15 0.6513582 0.7204725 180 N 39 1 8
+TOP 16 0.6986023 0.7204725 180 N 0 30 9
+TOP 17 0.7458464 0.7204725 180 N 56 83 10
+TOP 18 0.7930904 0.7204725 180 N 38 1 11
+TOP 19 0.8403345 0.7204725 180 N 37 1 12
+TOP 20 0.8875786 0.7204725 180 N 0 29 13
+TOP 21 0.9348227 0.7204725 180 N 0 28 14
+TOP 22 0.9820668 0.7204725 180 N 0 27 15
+TOP 23 1.0293109 0.7204725 180 N 55 1 16
+TOP 24 1.076555 0.7204725 180 N 56 82 17
+TOP 25 1.1237991 0.7204725 180 N 0 26 18
+TOP 26 1.1710432 0.7204725 180 N 0 25 19
+TOP 27 1.2182873 0.7204725 180 N 56 81 20
+TOP 28 1.2750196 0.7478741 90 N 62 17 21
+TOP 29 1.2750196 0.7951181 90 N 4 1 22
+TOP 30 1.2750196 0.8423622 90 N 0 24 23
+TOP 31 1.2750196 0.8896063 90 N 54 5 24
+TOP 32 1.2750196 0.9368504 90 N 36 2 25
+TOP 33 1.2750196 0.9840945 90 N 35 2 26
+TOP 34 1.2750196 1.0313386 90 N 6 1 27
+TOP 35 1.2750196 1.0785827 90 N 5 1 28
+TOP 36 1.2750196 1.1258268 90 N 29 0 29
+TOP 37 1.2750196 1.1730709 90 N 28 0 30
+TOP 38 1.2750196 1.220315 90 N 0 23 31
+TOP 39 1.2182873 1.2480315 180 N 56 80 32
+TOP 40 1.1710432 1.2480315 180 N 0 22 33
+TOP 41 1.1237991 1.2480315 180 N 1 0 34
+TOP 42 1.076555 1.2480315 180 N 0 21 35
+TOP 43 1.0293109 1.2480315 180 N 8 1 36
+TOP 44 0.9820668 1.2480315 180 N 57 1 37
+TOP 45 0.9348227 1.2480315 180 N 2 0 38
+TOP 46 0.8875786 1.2480315 180 N 3 0 39
+TOP 47 0.8403345 1.2480315 180 N 13 2 40
+TOP 48 0.7930904 1.2480315 180 N 7 1 41
+TOP 49 0.7458464 1.2480315 180 N 56 79 42
+TOP 50 0.6986023 1.2480315 180 N 52 2 43
+TOP 51 0.6513582 1.2480315 180 N 53 2 44
+TOP 52 0.6041141 1.2480315 180 N 0 20 45
+TOP 53 0.55687 1.2480315 180 N 0 19 46
+TOP 54 0.5096259 1.2480315 180 N 0 18 47
+TOP 55 0.4623818 1.2480315 180 N 0 17 48
+TOP 56 0.4151377 1.2480315 180 N 0 16 49
+TOP 57 0.3678936 1.2480315 180 N 0 15 50
+TOP 58 0.3206495 1.2480315 180 N 56 78 51
+#
+# CMP 102
+CMP 1 1.5838583 0.8570866 270 N U3 20021111-00010T4LF ;0=2,1=0.0000
+PRP Brand 'FCI'
+PRP ComponentLink1Description 'https://datasheet.ciiva.com/1433/1079612-1433267.pdf'
+PRP ComponentLink1URL 'https://datasheet.ciiva.com/1433/1079612-1433267.pdf'
+PRP ComponentLink2Description 'https://datasheet.ciiva.com/409/20021111-409158.pdf'
+PRP ComponentLink2URL 'https://datasheet.ciiva.com/409/20021111-409158.pdf'
+PRP ComponentLink3Description 'https://datasheet.ciiva.com/5131/20021111-5131386.pdf'
+PRP ComponentLink3URL 'https://datasheet.ciiva.com/5131/20021111-5131386.pdf'
+PRP ComponentLink4Description 'https://datasheet.ciiva.com/9465/20021111-9465402.pdf'
+PRP ComponentLink4URL 'https://datasheet.ciiva.com/9465/20021111-9465402.pdf'
+PRP Contact_Material 'Nickel'
+PRP Contact_Plating 'Gold'
+PRP Current_Rating '10 A'
+PRP Factory_Pack_Quantity '93'
+PRP Housing_Material 'Plastic'
+PRP Manufacturer 'Amphenol / FCI'
+PRP Manufacturer_Part_Number '20021111-00010T4LF'
+PRP Mating_Post_Length '3.05 mm'
+PRP Mounting_Angle 'Vertical'
+PRP Mounting_Style 'Through Hole'
+PRP Number_of_Positions '10'
+PRP Number_of_Positions_/_Contacts '10'
+PRP Number_of_Rows '2'
+PRP Packaging 'Tube'
+PRP Pitch '1.27 mm'
+PRP Product_Category 'Headers & Wire Housings'
+PRP Product_Type 'Headers'
+PRP RoHS 'Details'
+PRP Series 'Minitek'
+PRP Stack_Height '2.5 mm'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '609-3712-ND'
+PRP Termination_Post_Length '2.3 mm'
+PRP Termination_Style 'Through Hole'
+PRP Type 'Unshrouded'
+PRP Voltage_Rating '125 V'
+TOP 0 1.6338583 0.7570866 270 N 62 2 1
+TOP 1 1.5838583 0.7570866 270 N 35 0 2
+TOP 2 1.6338583 0.8070866 270 N 56 20 3
+TOP 3 1.5838583 0.8070866 270 N 36 0 4
+TOP 4 1.6338583 0.8570866 270 N 56 19 5
+TOP 5 1.5838583 0.8570866 270 N 0 2 6
+TOP 6 1.6338583 0.9070866 270 N 0 1 7
+TOP 7 1.5838583 0.9070866 270 N 0 3 8
+TOP 8 1.6338583 0.9570866 270 N 56 18 9
+TOP 9 1.5838583 0.9570866 270 N 54 0 10
+#
+# CMP 103
+CMP 7 0.4348504 1.7897087 0 N U1 FT234XD-R ;0=1,1=0.0354
+PRP ComponentLink1Description 'Manufacturer URL'
+PRP ComponentLink1URL 'http://www.ftdichip.com/'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT234XD.pdf'
+PRP DatasheetVersion 'ver 1.1, Feb-2013'
+PRP Manufacturer 'FTDI'
+PRP PackageDescription '12-Pin Dual Flat No-Lead, 3 x 3 mm Body, 0.45 mm Pitch, Exposed Pad'
+PRP PackageReference 'DFN-12'
+PRP PackageVersion 'Feb-13'
+PRP PartNumber 'FT234XD-R'
+TOP 0 0.3817008 1.834 270 N 19 1 1
+TOP 1 0.3817008 1.8162835 270 N 47 3 2
+TOP 2 0.3817008 1.7985669 270 N 32 2 3
+TOP 3 0.3817008 1.7808504 270 N 30 7 4
+TOP 4 0.3817008 1.7631339 270 N 56 68 5
+TOP 5 0.3817008 1.7454173 270 N 41 1 6
+TOP 6 0.488 1.7454173 270 N 53 1 7
+TOP 7 0.488 1.7631339 270 N 0 13 8
+TOP 8 0.488 1.7808504 270 N 32 3 9
+TOP 9 0.488 1.7985669 270 N 52 1 10
+TOP 10 0.488 1.8162835 270 N 0 14 11
+TOP 11 0.488 1.834 270 N 20 1 12
+TOP 12 0.4348504 1.7897087 270 N 56 69 13
+#
+# CMP 104
+CMP 15 1.72 2.08 180 N SD1 104031-0811 ;0=1,1=0.0618
+PRP Brand 'Molex'
+PRP Card_Type 'microSD'
+PRP Contact_Material 'PhosphorBronze'
+PRP Contact_Plating 'Gold'
+PRP Current_Rating '500mA'
+PRP Datasheet_URL 'http://www.molex.com/pdm_docs/sd/1040310811_sd.pdf'
+PRP Datasheet_Version 'Rev. E, 04/2006'
+PRP Height '1.42mm'
+PRP Housing_Material 'LiquidCrystalPolymer(LCP)'
+PRP Insertion_-_Extraction_Style 'Push-Pull'
+PRP Length '11.4mm'
+PRP Manufacturer 'Molex'
+PRP Manufacturer_URL 'http://www.molex.com/'
+PRP Mating_Cycles '10000'
+PRP Mounting_Technology 'SurfaceMount'
+PRP Mounting_Type 'Standard'
+PRP Number_of_Contacts '8'
+PRP Number_of_Rows '1Row'
+PRP Orientation 'RightAngle'
+PRP Package_Description '8-Pin Surface Mount Device, Body 11.95 x 11.4 mm, Pitch 1.1 mm'
+PRP Package_Reference '104031-0811'
+PRP Packaging 'Reel'
+PRP Pitch '1.1mm'
+PRP Product 'CardConnectors'
+PRP Product_Category 'MemoryCardConnectors'
+PRP RoHS 'True'
+PRP Series '104031'
+PRP Termination_Style 'SMD'
+PRP Voltage_Rating '10VAC/DC'
+TOP 0 1.5974606 2.2930905 180 N 0 11 1
+TOP 1 1.6407677 2.2930905 180 N 57 0 2
+TOP 2 1.6840748 2.2930905 180 N 49 2 3
+TOP 3 1.7273819 2.2930905 180 N 62 16 4
+TOP 4 1.770689 2.2930905 180 N 51 2 5
+TOP 5 1.813996 2.2930905 180 N 56 66 6
+TOP 6 1.8573031 2.2930905 180 N 50 1 7
+TOP 7 1.8986417 2.2930905 180 N 0 12 8
+TOP 8 1.4937204 2.0509645 180 N 40 2 9
+TOP 9 1.4937204 1.9052952 180 N 56 64 10
+TOP 10 1.5006102 2.2881692 90 N 56 65 11
+TOP 11 1.9462795 2.279311 180 N 56 67 12
+TOP 12 1.8665551 1.8669094 180 N 0 9 13
+TOP 13 1.6315157 1.8669094 180 N 0 10 14
+#
+# CMP 105
+CMP 21 0.469 1.928 90 N R2 27R_1% ;0=1,1=0.0236
+PRP Case-EIA '0603'
+PRP Case-Metric '1608'
+PRP Power '0.1 W'
+PRP Technology 'SMT'
+PRP Tolerance '1 %'
+PRP Value '27.00 Ohm'
+TOP 0 0.469 1.959496 0 N 22 1 1
+TOP 1 0.469 1.8965039 0 N 20 0 2
+#
+# CMP 106
+CMP 21 0.404 1.928 90 N R1 27R_1% ;0=1,1=0.0236
+PRP Case-EIA '0603'
+PRP Case-Metric '1608'
+PRP Power '0.1 W'
+PRP Technology 'SMT'
+PRP Tolerance '1 %'
+PRP Value '27.00 Ohm'
+TOP 0 0.404 1.959496 0 N 21 1 1
+TOP 1 0.404 1.8965039 0 N 19 0 2
+#
+# CMP 107
+CMP 27 1.0307477 2.2294685 180 N P1 640456-3 ;0=2,1=0.3949
+PRP Agency_Approvals 'CSA,UL'
+PRP Angle 'Straight'
+PRP Brand/Series 'MTA-100Series'
+PRP Color 'White'
+PRP Color__Housing 'White'
+PRP Connector_Type 'MTA-100'
+PRP Contact_Centerline_Spacing '0.100in.'
+PRP Contact_Mating_Area_Plating 'Tin'
+PRP Contact_Plating 'Tin'
+PRP Contact_Shape 'Square'
+PRP Contact_Termination_Area_Plating 'Tin'
+PRP Current__Rating '5A'
+PRP Datasheet_URL 'https://datasheet.ciiva.com/16456/eng-ds-82056-mta-0608-16456886.pdf'
+PRP Datasheet_Version 'Jun-08'
+PRP Flammability_Rating 'UL94V-0'
+PRP Length__Overall '0.3_'
+PRP Length__Pin '0.14_'
+PRP Length__Terminal_Post '0.14in.'
+PRP Manufacturer 'TE Connectivity'
+PRP Manufacturer_URL 'http://www.te.com/'
+PRP Material__Contact 'CopperAlloy'
+PRP Material__Housing 'Polyester'
+PRP Mount_Angle 'Vertical'
+PRP Mounting_Hole_Size '0.04_'
+PRP Mounting_Type 'PCMount'
+PRP Number_of_Contacts '3'
+PRP Number_of_Positions '3'
+PRP Number_of_Rows '1'
+PRP Pin_Spacing '0.1_'
+PRP Primary_Type 'InterconnectSystem'
+PRP Size__Post '0.025in.'
+PRP Special_Features 'Pinstrip'
+PRP Standards 'RoHSCompliant,ELVCompliant,UL94V-0'
+PRP Temperature__Operating '-55to+105degC'
+PRP Termination 'Solder'
+PRP Type 'PCBPlug'
+PRP Voltage__Rating '250V'
+TOP 0 0.9307477 2.2294685 180 N 56 17 1
+TOP 1 1.0307477 2.2294685 180 N 0 0 2
+TOP 2 1.1307477 2.2294685 180 N 34 1 3
+#

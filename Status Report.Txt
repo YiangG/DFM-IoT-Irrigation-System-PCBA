@@ -1,0 +1,10 @@
+Output: PCBNG BOM
+Type  : BOM
+From  : Variant [[No Variations]] of Project [ESE516_ExampleLayoutProject_.PrjPcb]
+   Generated File[PCBNG BOM-ESE516_ExampleProject.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 8:59:31 PM On 2/8/2023
